@@ -1,4 +1,4 @@
-# EXPLORANDO IA GENERATIVA EM UM PIPELINE DE ETL COM PYTHON
+# Explorando IA Generativa em um Pipeline de ETL com Python
 Desafio DIO.
 
 # Santander Dev Week 2023 Java API
